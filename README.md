@@ -5,7 +5,7 @@ A Google Cloud Run starter project
 
 This package was created as a gloud run demo.
 
-This is an updated to my older, now outdated demo (cloud-run-101).
+This is an update to my older, now outdated demo (cloud-run-101).
 
 ## Installation
 
