@@ -53,7 +53,7 @@ gcloud init
 
 ## Initialize Beta components
 
-At the time of this writing, Cloud Run is still in Beta
+Run this command to update the components
 
 ```sh
 gcloud components update
