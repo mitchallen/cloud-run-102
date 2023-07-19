@@ -51,7 +51,7 @@ gcloud init
 
 * * *
 
-## Initialize Beta components
+## Initialize components
 
 Run this command to update the components
 
@@ -106,8 +106,6 @@ To see and manage the container image, browse to:
 * * *
 
 ## Deploy to Cloud Run
-
-While Cloud Run is in Beta, you will need to run it as as beta component below:
 
 Substitute __PROJECT-ID__ with your current gcloud project id:
 
